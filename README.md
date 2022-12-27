@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @helenrgeorge
+- 👋 Hi, I’m Helen George
 - 👀 I’m interested in full stack web development
-- 🌱 I’m know html, css, python, C#, and javascript
-- 💞️ I’m looking to collaborate on web development projects
+- 🌱 I’m know html, css, python, C#, bootstrap, and javascript
 
 <!---
 helenrgeorge/helenrgeorge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

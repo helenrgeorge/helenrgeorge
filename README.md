@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Helen George
-- 👀 I’m interested in full stack web development
-- 🌱 I’m know html, css, python, C#, bootstrap, and javascript
+- 👋 Hi, I’m Helen 
+- 👀 Full Stack nerd
+- 🌱 Html, Css, Python, C#, Bootstrap, and Javascript
 
-<!---
-helenrgeorge/helenrgeorge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+

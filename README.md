@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Helen 
-- 👀 Full Stack nerd
+- 👀 Full Stack Enthusiast
 - 🌱 Html, Css, Python, C#, Bootstrap, and Javascript
 
 
